@@ -1,0 +1,16 @@
+    
+html stand for hypertext markup language   
+    - the skeleton of the website
+
+css stand for cascading style sheet
+    -the style of the html (allow you to change the appearance)
+
+link tag -link
+    -allow linking html and css files together
+    -located in head tag
+
+    body tag - body
+    -the main part of the website
+    -this is where we type in in our html codes
+
+    header tag -h1,h2,h3,h4,h5,h6
